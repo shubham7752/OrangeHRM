@@ -1,0 +1,123 @@
+03/16/2026 01:45:14 AM: INFO: ***************Test_001_Login***************
+03/16/2026 01:45:14 AM: INFO: *************** Verifying Home Page Title ***************
+03/16/2026 01:45:15 AM: INFO: ************ Home Page Title Test is passed!**************
+03/16/2026 01:45:17 AM: INFO: *************** Verifying Login Test *****************
+03/16/2026 01:45:24 AM: ERROR: ************ Login Test is passed!**************
+03/23/2026 01:08:30 PM: INFO: ***************Test_001_Login***************
+03/23/2026 01:08:30 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 01:08:31 PM: INFO: ************ Home Page Title Test is passed!**************
+03/23/2026 01:08:33 PM: INFO: *************** Verifying Login Test *****************
+03/23/2026 01:08:39 PM: ERROR: ************ Login Test is failed!**************
+03/23/2026 01:08:56 PM: INFO: ***************Test_001_Login***************
+03/23/2026 01:08:56 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 01:08:58 PM: INFO: ************ Home Page Title Test is passed!**************
+03/23/2026 01:09:05 PM: INFO: *************** Verifying Login Test *****************
+03/23/2026 01:09:14 PM: INFO: ************ Login Test is passed!**************
+03/23/2026 01:09:55 PM: INFO: ***************Test_001_Login***************
+03/23/2026 01:09:55 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 01:12:53 PM: INFO: ***************Test_001_Login***************
+03/23/2026 01:12:53 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 01:12:53 PM: INFO: *************** Verifying Login Test *****************
+03/23/2026 01:12:54 PM: INFO: ************ Home Page Title Test is passed!**************
+03/23/2026 01:13:01 PM: ERROR: ************ Login Test is failed!**************
+03/23/2026 01:25:07 PM: INFO: ***************Test_001_Login***************
+03/23/2026 01:25:07 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 01:25:07 PM: INFO: *************** Verifying Login Test *****************
+03/23/2026 01:25:08 PM: INFO: ************ Home Page Title Test is passed!**************
+03/23/2026 01:25:14 PM: ERROR: ************ Login Test is failed!**************
+03/23/2026 01:26:33 PM: INFO: *************** Verifying Login Test *****************
+03/23/2026 01:26:34 PM: INFO: ***************Test_001_Login***************
+03/23/2026 01:26:34 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 02:22:42 PM: INFO: ************* Test_002_DDT_Login**************
+03/23/2026 02:22:42 PM: INFO: *************** Verifying Login DDT Test *****************
+03/23/2026 02:22:49 PM: INFO: **** failed ****
+03/23/2026 02:23:36 PM: INFO: ************* Test_002_DDT_Login**************
+03/23/2026 02:23:36 PM: INFO: *************** Verifying Login DDT Test *****************
+03/23/2026 04:56:52 PM: INFO: ************* Test_002_DDT_Login**************
+03/23/2026 04:56:52 PM: INFO: *************** Verifying Login DDT Test *****************
+03/23/2026 04:56:58 PM: INFO: **** failed ****
+03/23/2026 05:15:17 PM: INFO: patching driver executable C:\Users\Mindfire\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+03/23/2026 05:18:46 PM: INFO: ************* Test_002_DDT_Login**************
+03/23/2026 05:18:46 PM: INFO: *************** Verifying Login DDT Test *****************
+03/23/2026 05:18:58 PM: INFO: **** failed ****
+03/23/2026 05:32:48 PM: INFO: ***************Test_001_Login***************
+03/23/2026 05:32:48 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 05:33:09 PM: INFO: ************ Home Page Title Test is passed!**************
+03/23/2026 05:33:10 PM: INFO: *************** Verifying Login Test *****************
+03/23/2026 05:33:37 PM: INFO: ************ Login Test is passed!**************
+03/23/2026 05:46:37 PM: INFO: ***************Test_001_Login***************
+03/23/2026 05:46:37 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 05:47:00 PM: INFO: ************ Home Page Title Test is passed!**************
+03/23/2026 05:47:01 PM: INFO: *************** Verifying Login Test *****************
+03/23/2026 05:47:33 PM: INFO: ************ Login Test is passed!**************
+03/23/2026 08:09:19 PM: INFO: ***************Test_001_Login***************
+03/23/2026 08:09:19 PM: INFO: *************** Verifying Home Page Title ***************
+03/23/2026 08:09:43 PM: INFO: ************ Home Page Title Test is passed!**************
+03/23/2026 08:09:44 PM: INFO: *************** Verifying Login Test *****************
+03/23/2026 08:10:15 PM: INFO: ************ Login Test is passed!**************
+03/23/2026 08:38:46 PM: INFO: ************* Test_003_AddEmployee **************
+03/23/2026 08:38:57 PM: INFO: *** Logging in ***
+03/23/2026 08:46:39 PM: INFO: ************* Test_003_AddEmployee **************
+03/23/2026 08:46:53 PM: INFO: *** Logging in ***
+03/23/2026 08:50:55 PM: INFO: ************* Test_003_AddEmployee **************
+03/23/2026 08:51:20 PM: INFO: *** Logging in ***
+03/23/2026 08:51:23 PM: INFO: *** Navigating to Add Employee ***
+03/23/2026 08:51:27 PM: INFO: *** Filling Employee Details ***
+03/23/2026 10:55:00 PM: INFO: ************* Test_003_AddEmployee **************
+03/23/2026 10:55:17 PM: INFO: *** Logging in ***
+03/23/2026 10:55:21 PM: INFO: *** Login successful, dashboard loaded ***
+03/23/2026 10:55:21 PM: INFO: *** Navigating to Add Employee ***
+03/23/2026 10:55:32 PM: ERROR: *** Navigation to Add Employee failed ***
+03/23/2026 11:10:16 PM: INFO: ********** Test_004_SearchEmployee **********
+03/23/2026 11:10:33 PM: INFO: *** Step 1: Logging in ***
+03/23/2026 11:10:37 PM: INFO: *** Login successful ***
+03/23/2026 11:10:37 PM: INFO: *** Step 2: Navigating to PIM > Employee List ***
+03/23/2026 11:10:42 PM: INFO: *** Employee List page loaded ***
+03/23/2026 11:10:42 PM: INFO: *** Step 3: Searching for 'John' ***
+03/23/2026 11:17:12 PM: INFO: ********** Test_004_SearchEmployee **********
+03/23/2026 11:17:31 PM: INFO: *** Step 1: Logging in ***
+03/23/2026 11:17:36 PM: INFO: *** Login successful ***
+03/23/2026 11:17:36 PM: INFO: *** Step 2: Navigating to PIM > Employee List ***
+03/23/2026 11:17:41 PM: INFO: *** Employee List page loaded ***
+03/23/2026 11:17:41 PM: INFO: *** Step 3: Searching for 'John' ***
+03/23/2026 11:25:42 PM: INFO: ********** Test_004_SearchEmployee **********
+03/23/2026 11:26:06 PM: INFO: *** Step 1: Logging in ***
+03/23/2026 11:26:09 PM: INFO: *** Login successful ***
+03/23/2026 11:26:09 PM: INFO: *** Step 2: Navigating to PIM > Employee List ***
+03/23/2026 11:26:14 PM: INFO: *** Employee List page loaded ***
+03/23/2026 11:26:14 PM: INFO: *** Step 3: Searching for 'John' ***
+03/23/2026 11:26:16 PM: INFO: *** Search submitted and results loaded ***
+03/23/2026 11:26:16 PM: INFO: *** Step 4: Verifying result count > 0 ***
+03/23/2026 11:26:16 PM: INFO: *** Result count: 1 ***
+03/23/2026 11:26:16 PM: INFO: *** Step 5: Verifying employee name present in results ***
+03/23/2026 11:26:16 PM: INFO: *** Names in results: ['E456789'] ***
+03/24/2026 10:49:19 AM: INFO: ********** Test_004_SearchEmployee **********
+03/24/2026 10:49:26 AM: INFO: *** Step 1: Logging in ***
+03/24/2026 10:49:41 AM: INFO: *** Login successful ***
+03/24/2026 10:49:41 AM: INFO: *** Step 2: Navigating to PIM > Employee List ***
+03/24/2026 10:50:03 AM: INFO: *** Employee List page loaded ***
+03/24/2026 10:50:03 AM: INFO: *** Step 3: Searching for 'John' ***
+03/24/2026 10:57:27 AM: INFO: ********** Test_004_SearchEmployee **********
+03/24/2026 10:57:32 AM: INFO: *** Step 1: Logging in ***
+03/24/2026 10:57:38 AM: INFO: *** Login successful ***
+03/24/2026 10:57:38 AM: INFO: *** Step 2: Navigating to PIM > Employee List ***
+03/24/2026 10:57:44 AM: INFO: *** Employee List page loaded ***
+03/24/2026 10:57:44 AM: INFO: *** Step 3: Searching for 'John' ***
+03/24/2026 11:02:01 AM: INFO: ********** Test_004_SearchEmployee **********
+03/24/2026 11:02:04 AM: INFO: *** Step 1: Logging in ***
+03/24/2026 11:02:07 AM: INFO: *** Login successful ***
+03/24/2026 11:02:07 AM: INFO: *** Step 2: Navigating to PIM > Employee List ***
+03/24/2026 11:02:12 AM: INFO: *** Employee List page loaded ***
+03/24/2026 11:02:12 AM: INFO: *** Step 3: Searching for 'John' ***
+03/24/2026 11:05:56 AM: INFO: ********** Test_004_SearchEmployee **********
+03/24/2026 11:06:01 AM: INFO: *** Step 1: Logging in ***
+03/24/2026 11:06:04 AM: INFO: *** Login successful ***
+03/24/2026 11:06:04 AM: INFO: *** Step 2: Navigating to PIM > Employee List ***
+03/24/2026 11:06:10 AM: INFO: *** Employee List page loaded ***
+03/24/2026 11:06:10 AM: INFO: *** Step 3: Searching for 'John' ***
+03/24/2026 11:08:13 AM: INFO: ********** Test_004_SearchEmployee **********
+03/24/2026 11:08:18 AM: INFO: *** Step 1: Logging in ***
+03/24/2026 11:08:21 AM: INFO: *** Login successful ***
+03/24/2026 11:08:21 AM: INFO: *** Step 2: Navigating to PIM > Employee List ***
+03/24/2026 11:08:25 AM: INFO: *** Employee List page loaded ***
+03/24/2026 11:08:25 AM: INFO: *** Step 3: Searching for 'John' ***
